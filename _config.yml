@@ -1,7 +1,7 @@
 name: Reanna Joseph
 favicon: null
-layout_spectrum: 0.21278969082050025
-typography_spectrum: 0.6659688393119723
+layout_spectrum: 1
+typography_spectrum: 0.88145
 title: Reanna Joseph
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.219800328835845
-  lightness: 0.9536076902877539
-  saturation: 0.43281074799597263
-  rhythmicContrast: 0.6516388149466366
+    - '#0a1910'
+    - '#ffffff'
+    - '#c73056'
+    - '#a1975b'
+    - '#687322'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
