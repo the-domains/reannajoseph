@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reanna Joseph]]></title>
         <description><![CDATA[Reanna Joseph]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reannajoseph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 08:33:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 08:44:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reannajoseph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Contact Info</p></article>]]></description>
+            <link>https://thegrid.ai/reannajoseph/contact/index.html</link>
+            <guid isPermaLink="false">b20f6d46-f2d8-4a16-952b-7adca4b38f92</guid>
+            <pubDate>Sun, 03 Apr 2016 08:44:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9ed9550-9312-49f1-add6-45b956eb7e8e.jpg">]]></description>
-            <link>undefined2864401c-21a0-49ff-9b43-0b821a9419e1/index.html</link>
+            <link>https://thegrid.ai/reannajoseph/2864401c-21a0-49ff-9b43-0b821a9419e1/index.html</link>
             <guid isPermaLink="false">2864401c-21a0-49ff-9b43-0b821a9419e1</guid>
             <pubDate>Sun, 03 Apr 2016 08:33:01 GMT</pubDate>
         </item>
